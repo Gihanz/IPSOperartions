@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="C:/Users/gihanli/Desktop/al shawe/libs/acmapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gihanli/Desktop/al shawe/libs/Jace.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gihanli/Desktop/al shawe/libs/JSON4J_Apache.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gihanli/Desktop/al shawe/libs/listener.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gihanli/Desktop/al shawe/libs/pe.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gihanli/Desktop/al shawe/libs/pe3pt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gihanli/Desktop/al shawe/libs/peResources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gihanli/Desktop/al shawe/libs/json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gihanli/Desktop/al shawe/libs/stax-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gihanli/Desktop/al shawe/libs/xlxpScanner.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gihanli/Desktop/al shawe/libs/xlxpScannerUtils.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
